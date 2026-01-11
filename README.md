@@ -28,9 +28,7 @@ View open technical roles on our [Careers page](https://www.kingston-signs.co.uk
 ---
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-> Some repositories may be **experimental**, **in-progress**, or **hardware-dependent**
-> Not all projects are intended for direct reuse without adaptation
-> Documentation is pragmatic and evolves alongside production systems
+> Some repositories may be **experimental**, **in-progress**, or **hardware-dependent**.
+> Not all projects are intended for direct reuse without adaptation.
 
 If you’re an engineer interested in **automation, CNC, control systems, or applied manufacturing software engineering**, we’d love to hear from you.
