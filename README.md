@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Kingston Signs logo" width="180" />
+  <img src="logo.png" alt="Kingston Signs logo" width="180" />
 </p>
 
 # Kingston Signs welcomes you to our lair!
